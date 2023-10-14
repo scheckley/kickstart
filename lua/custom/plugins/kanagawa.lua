@@ -1,4 +1,4 @@
--- File: lua/custom/plugins/autopairs.lua
+-- File: lua/custom/plugins/kanagawa.lua
 
 return {
   "rebelot/kanagawa.nvim",
