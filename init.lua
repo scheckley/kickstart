@@ -151,7 +151,7 @@ require('lazy').setup({
   },
 
   {
-    -- Theme inspired by Atom
+    -- Theme inspired by Gruvbox
     'rebelot/kanagawa.nvim',
     priority = 1000,
     config = function()
