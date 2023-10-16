@@ -1,4 +1,4 @@
--- File: lua/custom/plugins/kanagawa.lua
+-- File: lua/custom/plugins/trouble.lua
 
 return {
   "folke/trouble.nvim",
