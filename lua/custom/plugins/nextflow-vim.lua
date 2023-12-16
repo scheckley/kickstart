@@ -1,3 +1,3 @@
 return {
-  {"Mxrcon/nextflow-vim", config=true},
+  "Mxrcon/nextflow-vim",
 }
